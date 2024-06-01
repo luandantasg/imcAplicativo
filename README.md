@@ -1,12 +1,24 @@
 # Calculadora IMC
-Desc
+Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros passos com desenvolvimento Android, com a principal funcionalidade de calcular o IMC e mostrar o resultado na tela seguinte. Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-Screenshots
+<img src="https://github.com/luandantasg/imcAplicativo/assets/125116414/36c81df8-ae1b-4458-874a-fe711e278906" width=200/> <img src="https://github.com/luandantasg/imcAplicativo/assets/125116414/7e275311-ea3f-43d9-8b36-d8982ca59cb6" width=200/>
+
 
 ## Tecnologias
-Techs
+- Activity
+- Intent
+- SnackBar
+- ViewGroups
+  - LinearLayout
+  - ConstraintLayout
+- Views
+  - ImageView
+  - TextView
+  - EditText
+  - Button
+  
 
 
 ## License
