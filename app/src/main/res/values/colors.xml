@@ -6,7 +6,7 @@
     <color name="primary_400">#cd00ea</color>
     <color name="primary_900">#5c00d2</color>
     <color name="magreza_color">#0000FF</color> <!-- Azul -->
-    <color name="normal_color">#00FF00</color> <!-- Verde -->
+    <color name="normal_color">#217024</color> <!-- Verde -->
     <color name="sobrepeso_color">#FFFF00</color> <!-- Amarelo -->
     <color name="obesidade_color">#FF0000</color> <!-- Vermelho -->
     <color name="obesidade_grave_color">#000000</color> <!-- Preto -->
