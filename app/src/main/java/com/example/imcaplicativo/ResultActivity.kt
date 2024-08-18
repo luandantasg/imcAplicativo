@@ -1,7 +1,9 @@
 package com.example.imcaplicativo
 
+import android.content.Intent
 import android.graphics.Color
 import android.os.Bundle
+import android.widget.Button
 import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -44,6 +46,12 @@ class ResultActivity : AppCompatActivity() {
 
         tvClassificacao.text = classificacao
         tvClassificacao.setTextColor(corTexto)
+
+        val btn_novoCalculo = findViewById<Button>(R.id.btn_novoCalculo)
+        btn_novoCalculo.setOnClickListener {
+            val intent = Intent(this,MainActivity::class.java)
+            startActivity(intent)
+        }
 
 
     }
