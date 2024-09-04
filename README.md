@@ -3,7 +3,11 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/luandantasg/imcAplicativo/assets/125116414/36c81df8-ae1b-4458-874a-fe711e278906" width=200/> <img src="https://github.com/luandantasg/imcAplicativo/assets/125116414/7e275311-ea3f-43d9-8b36-d8982ca59cb6" width=200/>
+<img src="https://github.com/user-attachments/assets/c716d087-36c8-4fe5-aa51-c62daa57efbd" width=200/>
+<img src="https://github.com/user-attachments/assets/ddf5995f-b22f-4444-8c9c-9d18eb911531" width=200/>
+
+
+
 
 
 ## Tecnologias
