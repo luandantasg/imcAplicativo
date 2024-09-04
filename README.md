@@ -3,8 +3,8 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/c716d087-36c8-4fe5-aa51-c62daa57efbd" width=200/>
-<img src="https://github.com/user-attachments/assets/ddf5995f-b22f-4444-8c9c-9d18eb911531" width=200/>
+<img src="https://github.com/user-attachments/assets/8f6b27cf-80d9-4f83-a0e2-563b128caa8e" width=200/>
+<img src="https://github.com/user-attachments/assets/86c25410-eab3-4087-abab-b6b654cede2b" width=200/>
 
 
 
@@ -12,6 +12,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 ## Tecnologias
 - Activity
+- Binding
 - Intent
 - SnackBar
 - ViewGroups
