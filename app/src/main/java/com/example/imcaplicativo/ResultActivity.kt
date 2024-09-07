@@ -15,7 +15,6 @@ const val KEY_RESULT_IMC = "ResultActivity.KEY_IMC"
 class ResultActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
         setContentView(R.layout.activity_result)
 
         val result = intent.getFloatExtra(KEY_RESULT_IMC, 0f)
